@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on developing better coding skills and DSA fundamentals.
+- 🌱 I’m currently learning Python, C and Web Development with basic intro to Deep Learning.
+- 📫 How to reach me: Gmail- abhaybhandarkar@gmail.com<br>
+Have a look-<br>
+Link to view [My blog](https://absbhandarkar.blogspot.com/)<br>
+Instagram for photography enthusiasts [Instagram](https://www.instagram.com/abswildlifephotography)<br>
+Thanks for visiting!
 <!--
 **AbhayBhandarkar/AbhayBhandarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
