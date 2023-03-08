@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on developing better coding skills and DSA fundamentals.
-- 🌱 I’m currently learning Python, C and Web Development with basic intro to Deep Learning.
+- 🌱 I’m currently learning Python, C,  Web Development and basic intro to Deep Learning.
 - 📫 How to reach me: Gmail- abhaybhandarkar@gmail.com<br>
 Have a look-<br>
 Link to view [My blog](https://absbhandarkar.blogspot.com/)<br>
