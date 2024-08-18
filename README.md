@@ -6,11 +6,11 @@ Link to view [My blog](https://absbhandarkar.blogspot.com/)<br>
 Instagram for photography enthusiasts [Instagram](https://www.instagram.com/abswildlifephotography)<br>
 Thanks for visiting!
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbhayBhandarkar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="AbhayBhandarkar's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbhayBhandarkar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="AbhayBhandarkar's GitHub Stats" class="centre" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayBhandarkar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="AbhayBhandarkar's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayBhandarkar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="AbhayBhandarkar's GitHub Stats" class="centre"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayBhandarkar&theme=tokyonight&hide_border=true" alt="AbhayBhandarkar's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayBhandarkar&theme=tokyonight&hide_border=true" alt="AbhayBhandarkar's GitHub Stats" class="centre"/>
 <!--
 **AbhayBhandarkar/AbhayBhandarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
