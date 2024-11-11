@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/AbhayBhandarkar">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://twitter.com/AbhayBhandarkar">
+  <a href="[https://[twitter.com/AbhayBhandarkar](https://x.com/BhandarkarAbhay)](https://x.com/BhandarkarAbhay)">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter"/>
   </a>
 </p>
