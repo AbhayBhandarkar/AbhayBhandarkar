@@ -1,59 +1,112 @@
+<h1 align="center">Hey there, I'm Abhay Bhandarkar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+
 <p align="center">
-  <h1 align="center" style="font-size:3em">Hi there it's Abhay<img src="hand.gif" height="50px"/></h1>
+  <img src="https://komarev.com/ghpvc/?username=AbhayBhandarkar&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/AbhayBhandarkar?label=Follow&style=social"/>
 </p>
 
 <p align="center">
-  <!-- ![](https://github-readme-stats.vercel.app/api?username=AbhayBhandarkar&show_icons=true&theme=dracula) -->
-  <img  width=350 style="margin-right:20px;" src="https://github-readme-stats.vercel.app/api?username=AbhayBhandarkar&show_icons=true&theme=dracula"/><img  width=350 height=155 src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayBhandarkar&theme=dracula"/>
-</p>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AbhayBhandarkar&theme=dracula) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayBhandarkar&theme=dracula&layout=compact"/>
-</p>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayBhandarkar&theme=dracula&layout=compact) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhayBhandarkar&theme=dracula&custom_title=AbhayBhandarkar's%20--->>%20Progress%20Graph&hide_border=false&bg_color=282a36&title_color=ff6e96&radius=10&height=300&days=20"/>
-</p>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/H?width=300&height=180&hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count"/>
-  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=extraonb6uh"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhayBhandarkar&theme=dracula"/>
+  <strong>Undergraduate AI Researcher • Developer • Tech Enthusiast</strong>
 </p>
 
-<br/><br/>
 <p align="center">
-<img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" style="margin-right:10px;" title="Visual Studio Code"/>
-<img width="40" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" style="margin-right:10px;" title="eclipse"/>
-<img width="40" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" style="margin-right:10px;" title="Jupyter Notebook"/>
-<img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" style="margin-right:10px;" title="HTML"/>
-<img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" style="margin-right:10px;" title="CSS"/>
-<img width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" style="margin-right:10px;" title="Bootstrap"/>
-<img width="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" style="margin-right:10px;" title="Tailwind CSS"/>
-<img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" style="margin-right:10px;" title="Canva"/>
-<img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" style="margin-right:10px;" title="JavaScript"/>
-<img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" style="margin-right:10px;" title="React"/>
-<img width="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" style="margin-right:10px;" title="Node.js"/>
-<img width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" style="margin-right:10px;" title="Java"/>
-<img width="40" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" style="margin-right:10px;" title="Maven"/>
-<img width="40" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="Tomcat" style="margin-right:10px;" title="Tomcat"/>
-<img width="40" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" style="margin-right:10px;" title="C"/>
-<img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" style="margin-right:10px;" title="Python"/>
-<img width="40" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" style="margin-right:10px;" title="MATLAB"/>
-</p>
-<br/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhayBhandarkar&style=rounded&label=++😏~+&abbreviated=true&color=blueviolet"/>
+  <a href="https://linkedin.com/in/AbhayBhandarkar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com/AbhayBhandarkar">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter"/>
+  </a>
 </p>
 
-<!--
-git cloned to vscode
+---
 
-ctrl+shift+V or Ctrl+K V= preview
+### 👨‍💻 About Me
 
-git add .
-git commit -m"update"
-git pull
-git push origin main 
--->
+- 🌱 Currently advancing my knowledge in **Machine Learning**, **Computer Vision**, and **Deep Learning** in Medical and Aerospace domains.
+- 💡 Passionate about AI and building impactful solutions through technology.
+- 📚 Undergraduate researcher focusing on AI and ML, working on exciting projects in the field.
+- 🌍 Open to collaborating on open-source AI projects and research work.
+- 📝 Sharing thoughts and projects on my [portfolio](https://abhaybhandarkar.github.io) (Needs Updating!)
+
+---
+
+### 🔥 My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/AbhayBhandarkar">
+    <img src="https://github-readme-stats.vercel.app/api?username=AbhayBhandarkar&show_icons=true&theme=radical&hide_border=true" width="400"/>
+  </a>
+  <a href="https://github.com/AbhayBhandarkar">
+    <img src="https://streak-stats.demolab.com?user=AbhayBhandarkar&theme=radical&hide_border=true" width="400"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/AbhayBhandarkar">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhayBhandarkar&theme=radical&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+### 📊 Coding Stats
+
+<p align="center">
+  <a href="https://github.com/AbhayBhandarkar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayBhandarkar&theme=radical&layout=compact&hide_border=true" width="400"/>
+  </a>
+</p>
+
+---
+
+### 🏆 Achievements & Certifications
+
+<p align="center">
+  <a href="https://github.com/AbhayBhandarkar">
+    <img src="https://github-profile-trophy.vercel.app/?username=AbhayBhandarkar&theme=radical&margin-w=15&margin-h=15&column=4&no-frame=true"/>
+  </a>
+</p>
+
+---
+
+### 💬 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/AbhayBhandarkar">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhay_Bhandarkar-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com/AbhayBhandarkar">
+    <img src="https://img.shields.io/badge/Twitter-AbhayBhandarkar-1DA1F2?style=for-the-badge&logo=twitter"/>
+  </a>
+  <a href="mailto:abhaybhandarkar@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+*Thanks for visiting! Feel free to explore my repositories and connect with me on LinkedIn or Twitter. Let's build something amazing together!* 🚀
