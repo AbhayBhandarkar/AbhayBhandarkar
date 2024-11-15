@@ -22,9 +22,9 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently advancing my knowledge in **Machine Learning**, **Computer Vision**, and **Deep Learning** in Medical and Aerospace domains.
+- 🌱 Currently advancing my knowledge in **Cryptography**, **Machine Learning**, **Computer Vision**, and **Deep Learning** in Medical and Aerospace domains.
 - 💡 Passionate about AI and building impactful solutions through technology.
-- 📚 Undergraduate researcher focusing on AI and ML, working on exciting projects in the field.
+- 📚 Undergraduate researcher focusing on AI and ML along with Cryptography working on exciting projects in the field.
 - 🌍 Open to collaborating on open-source AI projects and research work.
 - 📝 Sharing thoughts and projects on my [portfolio](https://abhaybhandarkar.github.io) (Needs Updating!)
 
