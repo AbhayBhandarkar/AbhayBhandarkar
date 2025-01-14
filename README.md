@@ -102,7 +102,7 @@
   <a href="https://twitter.com/AbhayBhandarkar">
     <img src="https://img.shields.io/badge/Twitter-AbhayBhandarkar-1DA1F2?style=for-the-badge&logo=twitter"/>
   </a>
-  <a href="mailto:abhaybhandarkar@example.com">
+  <a href="mailto:abhaybhandarkar@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
