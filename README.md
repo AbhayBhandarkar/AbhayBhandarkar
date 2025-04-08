@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>Undergraduate AI Researcher • Developer • Tech Enthusiast</strong>
+  <strong>Undergraduate AI Researcher • Innovator • Thinker • Tech Enthusiast</strong>
 </p>
 
 <p align="center">
