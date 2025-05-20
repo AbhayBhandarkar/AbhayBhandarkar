@@ -6,17 +6,17 @@
     Hi there, I'm Abhay Bhandarkar!
   </h1>
   <a href="https://github.com/AbhayBhandarkar" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3500&pause=1200&color=1E66F5&center=true&vCenter=true&width=550&lines=AI+%26+Machine+Learning+Researcher;Deep+Learning+Architect;Computer+Vision+Innovator;Signal+Processing+Specialist;Tech+Enthusiast+%26+Builder" alt="Typing SVG for Abhay Bhandarkar's roles and interests" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3500&pause=1200&color=0D6EFD&center=true&vCenter=true&width=550&lines=AI+%26+Machine+Learning+Researcher;Deep+Learning+Architect;Computer+Vision+Innovator;Signal+Processing+Specialist;Tech+Enthusiast+%26+Builder" alt="Typing SVG for Abhay Bhandarkar's roles and interests - AI & Machine Learning Researcher, Deep Learning Architect, Computer Vision Innovator, Signal Processing Specialist, Tech Enthusiast & Builder" />
   </a>
   <br>
   <p>
     <a href="https://github.com/AbhayBhandarkar">
-      <img src="https://komarev.com/ghpvc/?username=AbhayBhandarkar&style=flat-square&color=40A02B&label=PROFILE+VIEWS" alt="Profile Views"/>
+      <img src="https://komarev.com/ghpvc/?username=AbhayBhandarkar&style=flat-square&color=0D6EFD&label=PROFILE+VIEWS" alt="Profile Views"/>
     </a>
     <a href="https://github.com/AbhayBhandarkar?tab=followers">
-      <img src="https://img.shields.io/github/followers/AbhayBhandarkar?style=flat-square&logo=github&label=Followers&color=7287FD" alt="GitHub Followers"/>
+      <img src="https://img.shields.io/github/followers/AbhayBhandarkar?style=flat-square&logo=github&label=Followers&color=17A2B8" alt="GitHub Followers"/>
     </a>
-    </p>
+  </p>
   <div>
     <a href="https://linkedin.com/in/AbhayBhandarkar" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
@@ -28,28 +28,52 @@
       <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar Profile"/>
     </a>
     <a href="mailto:abhaybhandarkar@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Me"/>
+      <img src="https://img.shields.io/badge/Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Me"/>
     </a>
   </div>
 </div>
 
 ---
 
-### <picture><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/icons/favicons/favicon-ഷ്ട.svg" width="20px" alt="Catppuccin paw icon"></picture> About Me
+### 👨‍🔬 About Me
 
-Hello! I'm Abhay, an undergraduate researcher deeply immersed in the world of Artificial Intelligence. My core passion lies in leveraging **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Signal Processing** to devise innovative solutions for complex challenges. I am particularly focused on applying these technologies to make significant impacts in:
+I am an undergraduate AI researcher driven by a profound interest in developing intelligent systems that address complex, real-world problems. My work centers on the ethical and innovative application of **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Signal Processing**. I am dedicated to advancing research and creating impactful technological solutions, particularly within the domains of **Medical Technology**, **Geosciences**, and **Autonomous Systems**. My goal is to contribute to a future where technology and human ingenuity converge to solve pressing global challenges.
 
-🔬 **Medical Technology:** Advancing diagnostics, treatment, and patient care.
-🌍 **Geosciences:** Uncovering insights about our planet and its systems.
-🤖 **Autonomous Systems:** Developing intelligent and self-reliant machines.
-
-I'm a firm believer in the power of collaborative innovation and lifelong learning. Actively seeking to contribute to open-source projects and pioneering research. My digital workshop (portfolio) is currently under refinement: [abhaybhandarkar.github.io](https://abhaybhandarkar.github.io) (launching soon!).
+My academic journey and research endeavors are focused on pushing the boundaries of current knowledge and fostering collaborations that lead to meaningful advancements. My portfolio (currently under development) will showcase these efforts: [abhaybhandarkar.github.io](https://abhaybhandarkar.github.io).
 
 ---
 
-### <picture><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/icons/favicons/favicon-ഷ്ട.svg" width="20px" alt="Catppuccin paw icon"></picture> My Tech Arsenal
+### 🔬 Research Interests
 
-I build and innovate with a diverse set of tools and technologies. Here’s a glimpse into my primary arsenal:
+My research interests are concentrated on the theoretical underpinnings and practical applications of AI, including:
+
+* **Machine Learning:** Developing robust algorithms for supervised, unsupervised, and reinforcement learning; exploring model interpretability and fairness.
+* **Deep Learning:** Architecting novel neural networks for complex data modalities; research in areas like generative models, attention mechanisms, and efficient model training.
+* **Computer Vision:** Advancing image and video understanding, including object detection/recognition, semantic segmentation, 3D vision, and multimodal CV.
+* **Signal Processing:** Designing advanced techniques for analyzing, interpreting, and transforming signals from various sources (e.g., biomedical, geophysical, audio).
+* **Cryptography in AI:** Investigating secure and privacy-preserving machine learning techniques, and the cryptographic principles underpinning secure AI systems.
+
+I am particularly excited by interdisciplinary research that applies these areas to create tangible benefits in healthcare, environmental science, and intelligent automation.
+
+---
+
+### 📚 Publications & Scholarly Presence
+
+I am committed to disseminating research findings and engaging with the broader academic community. My work and citations can be tracked on my Google Scholar profile.
+
+<p align="left">
+  <a href="https://scholar.google.com/citations?user=hFilxmsAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Google_Scholar-Abhay_Bhandarkar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Abhay Bhandarkar - Google Scholar Profile"/>
+  </a>
+</p>
+
+*(Further publications and preprints will be updated here and on my portfolio.)*
+
+---
+
+### 🛠️ Skills & Technologies
+
+I leverage a variety of programming languages, frameworks, and tools to conduct my research and develop applications:
 
 <div align="center">
 
@@ -64,76 +88,52 @@ I build and innovate with a diverse set of tools and technologies. Here’s a gl
 
 ---
 
-### <picture><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/icons/favicons/favicon-ഷ്ട.svg" width="20px" alt="Catppuccin paw icon"></picture> My GitHub Insights
+### 📈 My GitHub Statistics
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AbhayBhandarkar&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&line_height=28&card_width=490&icon_color=cba6f7&title_color=cba6f7&text_color=cad3f5&bg_color=1e1e2e">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AbhayBhandarkar&show_icons=true&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true&line_height=28&card_width=490&icon_color=1e66f5&title_color=1e66f5&text_color=4c4f69&bg_color=eff1f5">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbhayBhandarkar&show_icons=true&theme=catppuccin_latte&hide_border=true&include_all_commits=true&count_private=true&line_height=28&card_width=490&icon_color=1e66f5&title_color=1e66f5&text_color=4c4f69&bg_color=eff1f5" alt="Abhay Bhandarkar's GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AbhayBhandarkar&show_icons=true&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&line_height=28&card_width=490&icon_color=cba6f7&title_color=cba6f7&text_color=cad3f5&bg_color=1e1e2e&border_color=cba6f7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AbhayBhandarkar&show_icons=true&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&line_height=28&card_width=490&icon_color=1e66f5&title_color=1e66f5&text_color=4c4f69&bg_color=eff1f5&border_color=1e66f5">
+    <img src="https://github-readme-stats.vercel.app/api?username=AbhayBhandarkar&show_icons=true&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&line_height=28&card_width=490&icon_color=1e66f5&title_color=1e66f5&text_color=4c4f69&bg_color=eff1f5&border_color=1e66f5" alt="Abhay Bhandarkar's GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayBhandarkar&theme=catppuccin_mocha&layout=compact&hide_border=true&langs_count=8&card_width=490&title_color=cba6f7&text_color=cad3f5&bg_color=1e1e2e">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayBhandarkar&theme=catppuccin_latte&layout=compact&hide_border=true&langs_count=8&card_width=490&title_color=1e66f5&text_color=4c4f69&bg_color=eff1f5">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayBhandarkar&theme=catppuccin_latte&layout=compact&hide_border=true&langs_count=8&card_width=490&title_color=1e66f5&text_color=4c4f69&bg_color=eff1f5" alt="Abhay Bhandarkar's Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayBhandarkar&theme=catppuccin_mocha&layout=compact&hide_border=false&langs_count=8&card_width=490&title_color=cba6f7&text_color=cad3f5&bg_color=1e1e2e&border_color=cba6f7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayBhandarkar&theme=catppuccin_latte&layout=compact&hide_border=false&langs_count=8&card_width=490&title_color=1e66f5&text_color=4c4f69&bg_color=eff1f5&border_color=1e66f5">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayBhandarkar&theme=catppuccin_latte&layout=compact&hide_border=false&langs_count=8&card_width=490&title_color=1e66f5&text_color=4c4f69&bg_color=eff1f5&border_color=1e66f5" alt="Abhay Bhandarkar's Top Languages" />
+  </picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AbhayBhandarkar&theme=catppuccin_mocha&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&card_width=490&background=1e1e2e&border=cba6f7&stroke=cba6f7&ring=8839ef&fire=f5bde6&currStreakNum=cad3f5&sideNums=cad3f5&currStreakLabel=cad3f5&sideLabels=cad3f5&dates=cad3f5">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AbhayBhandarkar&theme=catppuccin_latte&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&card_width=490&background=eff1f5&border=1e66f5&stroke=1e66f5&ring=fe640b&fire=e64553&currStreakNum=4c4f69&sideNums=4c4f69&currStreakLabel=4c4f69&sideLabels=4c4f69&dates=4c4f69">
+    <img src="https://streak-stats.demolab.com?user=AbhayBhandarkar&theme=catppuccin_latte&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&card_width=490&background=eff1f5&border=1e66f5&stroke=1e66f5&ring=fe640b&fire=e64553&currStreakNum=4c4f69&sideNums=4c4f69&currStreakLabel=4c4f69&sideLabels=4c4f69&dates=4c4f69" alt="Abhay Bhandarkar's GitHub Streak" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=AbhayBhandarkar&theme=catppuccin-mocha&margin-w=15&margin-h=15&column=5&no-frame=false&no-bg=true&row=1&rank=-C,-B,-A,-S,-SS,-SSS&border_color=1e1e2e">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=AbhayBhandarkar&theme=catppuccin-latte&margin-w=15&margin-h=15&column=5&no-frame=false&no-bg=true&row=1&rank=-C,-B,-A,-S,-SS,-SSS&border_color=eff1f5">
+    <img src="https://github-profile-trophy.vercel.app/?username=AbhayBhandarkar&theme=catppuccin-latte&margin-w=15&margin-h=15&column=5&no-frame=false&no-bg=true&row=1&rank=-C,-B,-A,-S,-SS,-SSS&border_color=eff1f5" alt="GitHub Trophies" width="490"/>
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AbhayBhandarkar&theme=catppuccin_mocha&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=490&background=1e1e2e&border=cba6f7&stroke=cba6f7&ring=8839ef&fire=f5bde6&currStreakNum=cad3f5&sideNums=cad3f5&currStreakLabel=cad3f5&sideLabels=cad3f5&dates=cad3f5">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AbhayBhandarkar&theme=catppuccin_latte&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=490&background=eff1f5&border=1e66f5&stroke=1e66f5&ring=fe640b&fire=e64553&currStreakNum=4c4f69&sideNums=4c4f69&currStreakLabel=4c4f69&sideLabels=4c4f69&dates=4c4f69">
-    <img src="https://streak-stats.demolab.com?user=AbhayBhandarkar&theme=catppuccin_latte&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=490&background=eff1f5&border=1e66f5&stroke=1e66f5&ring=fe640b&fire=e64553&currStreakNum=4c4f69&sideNums=4c4f69&currStreakLabel=4c4f69&sideLabels=4c4f69&dates=4c4f69" alt="Abhay Bhandarkar's GitHub Streak" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=AbhayBhandarkar&theme=catppuccin-mocha&margin-w=15&margin-h=15&column=5&no-frame=true&no-bg=true&row=1&rank=-C,-B,-A,-S,-SS,-SSS">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=AbhayBhandarkar&theme=catppuccin-latte&margin-w=15&margin-h=15&column=5&no-frame=true&no-bg=true&row=1&rank=-C,-B,-A,-S,-SS,-SSS">
-    <img src="https://github-profile-trophy.vercel.app/?username=AbhayBhandarkar&theme=catppuccin-latte&margin-w=15&margin-h=15&column=5&no-frame=true&no-bg=true&row=1&rank=-C,-B,-A,-S,-SS,-SSS" alt="GitHub Trophies" width="490"/>
-  </picture>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AbhayBhandarkar&bg_color=1e1e2e&color=cad3f5&line=89b4fa&point=cba6f7&area=true&hide_border=true&area_color=89b4fa">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AbhayBhandarkar&bg_color=eff1f5&color=4c4f69&line=1e66f5&point=fe640b&area=true&hide_border=true&area_color=1e66f5">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhayBhandarkar&bg_color=eff1f5&color=4c4f69&line=1e66f5&point=fe640b&area=true&hide_border=true&area_color=1e66f5" alt="Abhay Bhandarkar's Contribution Graph"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AbhayBhandarkar&bg_color=1e1e2e&color=cad3f5&line=89b4fa&point=cba6f7&area=true&hide_border=false&area_color=89b4fa&border_color=cba6f7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AbhayBhandarkar&bg_color=eff1f5&color=4c4f69&line=1e66f5&point=fe640b&area=true&hide_border=false&area_color=1e66f5&border_color=1e66f5">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhayBhandarkar&bg_color=eff1f5&color=4c4f69&line=1e66f5&point=fe640b&area=true&hide_border=false&area_color=1e66f5&border_color=1e66f5" alt="Abhay Bhandarkar's Contribution Graph"/>
   </picture>
 </div>
 
----
+### 💬 Let's Collaborate & Connect
 
-### <picture><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/icons/favicons/favicon-ഷ്ട.svg" width="20px" alt="Catppuccin paw icon"></picture> Featured Projects Spotlight
-*(Showcasing some of my key work. More on my portfolio and repositories!)*
-
-<div align="center">
-  <a href="https://github.com/AbhayBhandarkar/YOUR_REPO_NAME_1" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhayBhandarkar&repo=YOUR_REPO_NAME_1&theme=catppuccin_latte&hide_border=true&show_owner=false&icon_color=1e66f5&title_color=1e66f5&text_color=4c4f69&bg_color=eff1f5" alt="Featured Project 1 Name"/>
-  </a>
-  <a href="https://github.com/AbhayBhandarkar/YOUR_REPO_NAME_2" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhayBhandarkar&repo=YOUR_REPO_NAME_2&theme=catppuccin_latte&hide_border=true&show_owner=false&icon_color=1e66f5&title_color=1e66f5&text_color=4c4f69&bg_color=eff1f5" alt="Featured Project 2 Name"/>
-  </a>
-  </div>
-*(Please replace `YOUR_REPO_NAME_1` and `YOUR_REPO_NAME_2` with your actual repository names to activate this section.)*
-
----
-
-### <picture><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/icons/favicons/favicon-ഷ്ട.svg" width="20px" alt="Catppuccin paw icon"></picture> Let's Connect & Create!
-
-I'm always enthusiastic about discussing innovative ideas, exploring research collaborations, or joining forces on impactful projects. Don't hesitate to reach out!
+I am always open to discussing new research ideas, potential collaborations, or engaging in thought-provoking conversations about the future of AI. Please feel free to connect with me:
 
 <div align="center">
   <a href="https://linkedin.com/in/AbhayBhandarkar" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-  <a href="https://x.com/BhandarkarAbhay" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X_(Twitter)-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X (Twitter)"/>
-  </a>
-  <a href="https://scholar.google.com/citations?user=hFilxmsAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Google_Scholar-My_Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar Profile"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Abhay Bhandarkar on LinkedIn"/>
   </a>
   <a href="mailto:abhaybhandarkar@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+    <img src="https://img.shields.io/badge/Email_Me-abhaybhandarkar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abhay Bhandarkar"/>
   </a>
 </div>
 
 ---
 
 <p align="center">
-  <em>Crafted with passion and a sprinkle of caffeine. Thanks for visiting!</em> 🌟
+  <em>Thank you for visiting my profile. I look forward to connecting and exploring the frontiers of technology together!</em>
 </p>
