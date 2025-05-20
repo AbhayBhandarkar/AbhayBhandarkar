@@ -6,7 +6,7 @@
     Hi there, I'm Abhay Bhandarkar!
   </h1>
   <a href="https://github.com/AbhayBhandarkar" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3500&pause=1200&color=0D6EFD&center=true&vCenter=true&width=550&lines=AI+%26+Machine+Learning+Researcher;Deep+Learning+Architect;Computer+Vision+Innovator;Signal+Processing+Specialist;Tech+Enthusiast+%26+Builder" alt="Typing SVG for Abhay Bhandarkar's roles and interests - AI & Machine Learning Researcher, Deep Learning Architect, Computer Vision Innovator, Signal Processing Specialist, Tech Enthusiast & Builder" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3500&pause=1200&color=0D6EFD&center=true&vCenter=true&width=550&lines=AI+%26+Machine+Learning+Researcher;Deep+Learning;Computer+Vision;Tech+Enthusiast+%26+Builder" alt="Typing SVG for Abhay Bhandarkar's roles and interests - AI & Machine Learning Researcher, Deep Learning, Computer Vision, Tech Enthusiast & Builder" />
   </a>
   <br>
   <p>
